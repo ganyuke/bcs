@@ -5,7 +5,7 @@ title: "Bowen Cloud Services - Reliable, grassroots cloud storage"
 
   <div>
     <div id="container">
-      <div class="flex md:flex-row flex-col items-center md:items-left">
+      <div class="flex md:flex-row flex-col items-center md:items-end">
         <div class="flex-1">
 <h1 class="text-4xl font-bold">
         <img alt="Bowen Cloud Services" src="/assets/images/bowen-archive.png" width="300px">
