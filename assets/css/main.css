@@ -47,9 +47,20 @@ body {
 }
 
 #container {
+   margin: 50px auto;
+   background-color: #fff0f0;
+   border: 3px double #a81f1a;
+   padding: 20px;
+}
+
+
+@media screen(md)  {
+   #container {
    width: 800px;
    margin: 50px auto;
    background-color: #fff0f0;
    border: 3px double #a81f1a;
    padding: 20px;
+}
+
 }

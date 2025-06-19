@@ -5,7 +5,7 @@ title: "Bowen Cloud Services - Reliable, grassroots cloud storage"
 
   <div>
     <div id="container">
-      <div style="display:flex;">
+      <div class="flex md:flex-row flex-col items-center md:items-left">
         <div class="flex-1">
 <h1 class="text-4xl font-bold">
         <img alt="Bowen Cloud Services" src="/assets/images/bowen-archive.png" width="300px">
@@ -18,14 +18,14 @@ title: "Bowen Cloud Services - Reliable, grassroots cloud storage"
       <hr style="clear:both;">
       <div class="mx-auto container">
         <h2 class="text-3xl m-2">Our Services</h2>
-        <div class="flex flex-wrap sm:gap-4 justify-around sm:justify-normal">
+        <div style="overflow:clip;" class="flex flex-wrap sm:gap-4 justify-around sm:justify-normal">
             <div class="h-40 w-40 relative rounded-lg bg-sky-800"><a href="https://cloud.bowenchen.xyz">
                     <h3 class="z-10 absolute m-3 text-lg text-center text-gray-50">Nextcloud</h3>
                     <img class="transition-transform absolute z-20 h-full bg-sky-500 p-5 rounded-lg sm:hover:translate-y-12"
                         src="/assets/images/nextcloud-icon.svg">
                 </a>
             </div>
-            <div class="h-40 w-40 relative rounded-lg bg-gray-700"><a href="https://jellyfin.bowenchen.xyz">
+            <div style="overflow:clip;" class="h-40 w-40 relative rounded-lg bg-gray-700"><a href="https://jellyfin.bowenchen.xyz">
                     <h3 class="z-10 absolute m-3 text-lg text-center text-gray-50">Jellyfin</h3>
                     <img class="transition-transform absolute z-20 h-full bg-slate-800 p-5 rounded-lg sm:hover:translate-y-12"
                         src="/assets/images/jellyfin-icon.svg">
